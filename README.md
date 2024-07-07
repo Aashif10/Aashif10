@@ -1,4 +1,4 @@
-![logo](https://media.licdn.com/dms/image/D5616AQGAGb1LCdoNaQ/profile-displaybackgroundimage-shrink_200_800/0/1688961815621?e=2147483647&v=beta&t=IghXHx_ky33RmsHfUh17qGg6TU0OEynq4vabZisC7Aw)
+![logo](https://media.licdn.com/dms/image/C5616AQEWlPGAXRoIOQ/profile-displaybackgroundimage-shrink_200_800/0/1650284750264?e=2147483647&v=beta&t=MQhCEc3TtifFYmQmJi_SAxmpYQlRGufPODbIvnM9buc)
 <h1 align="center">Hi 👋, I'm Aashif</h1>
 <h3 align="center">MERN FULL STACK DEVELOPER</h3>
 
