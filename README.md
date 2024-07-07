@@ -4,10 +4,11 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aashif10&label=Profile%20views&color=0e75b6&style=flat" alt="aashif10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aashif10" alt="aashif10" /></a> </p>
+![1](https://github.com/Aashif10/Aashif10/assets/163505856/4a28edc9-069e-4fc9-8135-02b44aead7cc)
 
 - 🌱 I’m currently learning **React.js , Node.js , Express.js**
 
-- 👨‍💻 All of my projects are available at [https://667a6255164aa4a928377f0f--spiffy-pothos-cf48d1.netlify.app/](https://667a6255164aa4a928377f0f--spiffy-pothos-cf48d1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://667a6255164aa4a928377f0f--spiffy-pothos-cf48d1.netlify.app/](https://github.com/Aashif10)
 
 - 📫 How to reach me **Aashif6004@gmail.com**
 
