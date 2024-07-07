@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Aashif</h1>
 <h3 align="center">MERN FULL STACK DEVELOPER</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashif10&label=Profile%20views&color=0e75b6&style=flat" alt="aashif10" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=aashif10&label=Profile%20views&color=0e75b6&style=flat" alt="aashif10" /> </p>            
 
 - 🌱 I’m currently learning **React.js , Node.js , Express.js**
 
@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **Aashif6004@gmail.com**
 
-- ⚡ Fun fact **I Think I am Funny**
+- ⚡ Fun fact **I Think I am Funny**                                                                                https://camo.githubusercontent.com/4cb9b98860a01e6a93c5b3eb5fd5a0ae409731635562552752b75ff17b4b2167/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
