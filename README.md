@@ -27,8 +27,8 @@
   <img align="left" width="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/768px-HTML5_logo_and_wordmark.svg.png"> 
     <img align="left" width="130" height="" src="https://static-00.iconduck.com/assets.00/file-type-css-icon-902x1024-dqy5inwy.png"> 
         <img align="left" width="150" src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png">
-    <img align="left" width="150" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> 
     <img  width="250" height="200" src="https://seekvectors.com/files/download/node%20js%20logo.png"> 
+    <img align="left" width="150" src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png"> 
     <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mongodb_original_wordmark_logo_icon_146425.png" width="150">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aashif10&show_icons=true&locale=en&layout=compact" alt="aashif10" /></p>
 
